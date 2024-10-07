@@ -1,1 +1,37 @@
+// Layout
+$hgt-topbar: 5rem;
 
+$wdt-section-base: 90%;
+$wdt-section-max: 1400px;
+
+// Fonts
+$fnt-size-base: 16px;
+
+$fnt-size-xs: .5rem;
+$fnt-size-s: .75rem;
+$fnt-size-m: 1rem;
+$fnt-size-l: 1.5rem;
+$fnt-size-xl: 2.5rem;
+$fnt-size-xxl: 5rem;
+
+$fnt-weight-tn: 200;
+$fnt-weight-lt: 300;
+$fnt-weight-md: 400;
+$fnt-weight-rg: 500;
+$fnt-weight-sb: 600;
+$fnt-weight-bd: 700;
+$fnt-weight-eb: 800;
+$fnt-weight-bl: 900;
+
+// Colors
+$clr-brand-primary: #e60000;
+$clr-brand-secondary: #ffee00;
+$clr-brand-tertiary: #340068;
+
+$clr-neutral-lt: #e9e9e9;
+$clr-neutral-dk: #181818;
+
+$clr-shadows-base: #000000;
+$clr-shadows-dk: rgba($clr-shadows-base, 1);
+$clr-shadows-md: rgba($clr-shadows-base, .675);
+$clr-shadows-lt: rgba($clr-shadows-base, .25);
